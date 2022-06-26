@@ -1,0 +1,24 @@
+.heading {
+    font-size: 23px;
+    width: 80%;
+    margin: 0px;
+    border-radius: 12px;
+}
+
+#status {
+    font-size: 18px;
+}
+
+canvas{
+    border: 3.6px solid aquamarine;
+    border-radius: 21px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#back1{
+    float:right;
+}
